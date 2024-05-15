@@ -1,5 +1,5 @@
 {% set name = "knoten" %}
-{% set version = "0.3.0" %}
+{% set version = "0.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/USGS-Astrogeology/knoten/archive/{{ version }}.tar.gz
-  sha256: 5dd53c61a768bdfd90be3a56b0bfc9c214c1fc8ec43c789aa92866a4e9b45cd9
+  sha256: 6bb833a2eebcbce9e33d4ba843e235e180c66678537368a868cbc21f3e850d3d
 
 build:
   script: {{ PYTHON }} -m pip install . -vv
