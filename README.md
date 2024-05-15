@@ -150,4 +150,5 @@ Feedstock Maintainers
 =====================
 
 * [@Kelvinrr](https://github.com/Kelvinrr/)
-
+* [@Kelvinrr](https://github.com/amystamile-usgs)
+* [@Kelvinrr](https://github.com/acpaquette)
